@@ -41,12 +41,12 @@ public class PetClinicApplication extends SpringBootServletInitializer {
         SpringApplication.run(PetClinicApplication.class, args);
     }
 
+/*
 
-    /*
     public static void main(String[] args) throws Exception {
         SpringApplication.run(PetClinicApplication.class, args);
     }
-    */
+*/
 
 
 }
